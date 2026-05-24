@@ -13,7 +13,7 @@ export default function Gallery() {
       label: 'Cirugía',
     },
     {
-      src: 'https://images.unsplash.com/photo-1580656039406-0be604480bd5?w=600&q=80',
+      src: 'https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=600&q=80',
       label: 'Diseño Digital',
     },
   ]
